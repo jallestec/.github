@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='https://jallesmachado.blob.core.windows.net/intranet/JALLES_Logotipo_RGB_Branco.png' width='200'>
+  <img src='https://jallesmachado.blob.core.windows.net/intranet/JALLES_Logotipo_RGB_Creme.png' width='200'>
 
   [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jallesmachado)
   [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jallesmachado)
